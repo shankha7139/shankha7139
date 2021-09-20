@@ -7,6 +7,9 @@
 
 - ⚡ apart from academics **I play badminton 🏸,cricket 🏏,chess, and story-mode pc games**
 
+-## POSITION OF RESPONSIBILITY
+1. AI/ML Member at GDSC BIT Mesra
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shankharishi khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shankharishi khan" height="30" width="40" /></a>
