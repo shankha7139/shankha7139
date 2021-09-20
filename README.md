@@ -7,7 +7,7 @@
 
 - ⚡ apart from academics **I play badminton 🏸,cricket 🏏,chess, and story-mode pc games**
 
--## POSITION OF RESPONSIBILITY
+## POSITION OF RESPONSIBILITY
 1. AI/ML Member at GDSC BIT Mesra
 
 <h3 align="left">Connect with me:</h3>
