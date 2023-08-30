@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shankharishi Khan</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🌱 I’m currently learning **python ,ML, unreal engine**
+- 🌱 I’m currently learning **python ,ML, MERN ,Cyber Security**
 
 - 📫 How to reach me **shankha7139@gmail.com**
 
